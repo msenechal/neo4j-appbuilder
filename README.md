@@ -1,6 +1,7 @@
 # neo4j-appbuilder
 AppBuilder for Neo4j
 
+```
 msenechal@Morgans-MacBook-Pro neo4j-appbuilder % node appbuilder.js 
 Usage: appbuilder [options] [command]
 
@@ -13,7 +14,7 @@ Options:
 Commands:
   start                        Start the AppBuilder process
   backend <language> <branch>  Choose a backend technology and branch (e.g., Node.js express)
-  help [command]               display help for command
+  help [command]               display help for command```
 
   ## Example
 
