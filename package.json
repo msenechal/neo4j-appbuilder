@@ -1,0 +1,23 @@
+{
+  "name": "neo4j-appbuilder",
+  "version": "1.0.0",
+  "description": "AppBuilder for Neo4j",
+  "main": "appbuilder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msenechal/neo4j-appbuilder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msenechal/neo4j-appbuilder/issues"
+  },
+  "homepage": "https://github.com/msenechal/neo4j-appbuilder#readme",
+  "dependencies": {
+    "commander": "^12.0.0",
+    "simple-git": "^3.23.0"
+  }
+}
