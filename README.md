@@ -14,7 +14,8 @@ Options:
 Commands:
   start                        Start the AppBuilder process
   backend <language> <branch>  Choose a backend technology and branch (e.g., Node.js express)
-  help [command]               display help for command```
+  help [command]               display help for command
+```
 
   ## Example
 
